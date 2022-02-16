@@ -2,8 +2,8 @@
 
 | Date | Activité | Ratio |
 |---|---|---|
-| | Test écrit #1 | 12.5% |
-|  | Test écrit #2 | 12.5% |
+| 4 avril 2022 | Test écrit #1 | 12.5% |
+| 13 juin 2022 | Test écrit #2 | 12.5% |
 |   | 3 labos test | 25% |
 |   | Examen | 50% |
 
@@ -46,10 +46,10 @@ Copiez les 2 répertoires dans votre répertoire de travail du cours.
 | 20220321 | L | | |
 | 20220328 | C | | |
 | 20220328 | L | | |
-| 20220331 | C | | |
-| 20220404 | C | Révisions TE1 | |
+| 20220331 | C | Révisions TE1 | |
+| 20220404 | C | TE1 | |
 | 20220404 | L | | |
-| 20220411 | C | TE1 | |
+| 20220411 | C | | |
 | 20220411 | L | | |
 | 20220414 | C | | |
 | 20220425 | C | | |
