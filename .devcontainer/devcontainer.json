@@ -2,7 +2,7 @@
 // https://github.com/microsoft/vscode-dev-containers/tree/v0.117.1/containers/cpp
 {
 	"name": "C++",
-	"image": "314rch/info1:v3",
+	"image": "314rch/info1:v5",
 	//"dockerFile": "Dockerfile",
 	"runArgs": [
 		"--cap-add=SYS_PTRACE",
