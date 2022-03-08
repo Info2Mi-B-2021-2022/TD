@@ -32,13 +32,13 @@ Copiez les 2 répertoires dans votre répertoire de travail du cours.
 # Activités cours/labo
 | Date | cours/labo | Activité | Commentaire |
 |---|:---:|---|---|
-| 20220221 | C | | |
-| 20220221 | L | | |
-| 20220228 | C | | |
-| 20220228 | L | | |
-| 20220303 | C | | |
-| 20220307 | C | | |
-| 20220307 | L | | |
+| 20220221 | C | présentation + test refresh| |
+| 20220221 | L | installation + début labo02| |
+| 20220228 | C | structures| |
+| 20220228 | L | labo02| |
+| 20220303 | C | structures + fichiers| |
+| 20220307 | C | fichiers txt| |
+| 20220307 | L | fichiers txt| |
 | 20220314 | C | | |
 | 20220314 | L | | |
 | 20220317 | C | | |
