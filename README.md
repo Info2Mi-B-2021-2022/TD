@@ -39,11 +39,11 @@ Copiez les 2 répertoires dans votre répertoire de travail du cours.
 | 20220303 | C | structures + fichiers| |
 | 20220307 | C | fichiers txt| |
 | 20220307 | L | fichiers txt| |
-| 20220314 | C | | |
-| 20220314 | L | | |
-| 20220317 | C | | |
-| 20220321 | C | | |
-| 20220321 | L | | |
+| 20220314 | C | fichiers txt, suite| |
+| 20220314 | L | labo03 1/2| https://classroom.github.com/a/iwfnDrRF |
+| 20220317 | C | fichiers txt| |
+| 20220321 | C | fichiers binaires| |
+| 20220321 | L | labo03 2/2| |
 | 20220328 | C | | |
 | 20220328 | L | | |
 | 20220331 | C | Révisions TE1 | |
